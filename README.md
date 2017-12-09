@@ -37,6 +37,22 @@ npm install
 	index.html
 
 
+
+### Todo
+
+[ ] Add localStorage to save scores
+[ ] Add ability to start new game
+[ ] Add rounds that have multipliers (ie answers are worth double or triple)
+[ ] Move HTML to index or to mustache templates
+[ ] Add ability to edit team names before game
+[ ] Add in more animations (wrong answer animations, flash background yellow lights on correct answer, etc)
+
+
+
+
+
+
+
 ### Thanks to the following repos
 
 Appreciation to the code developed, used in this project:
