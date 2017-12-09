@@ -41,5 +41,5 @@ npm install
 
 Appreciation to the code developed, used in this project:
 
-* [Webpack Boilerplate ](https://github.com/geniuscarrier/webpack-boilerplate)
-* [Family Feud Codepen] (https://codepen.io/MacEvelly/pen/rLWeYP)
+* [Webpack Boilerplate](https://github.com/geniuscarrier/webpack-boilerplate)
+* [Family Feud Codepen](https://codepen.io/MacEvelly/pen/rLWeYP)
