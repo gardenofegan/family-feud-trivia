@@ -1,20 +1,8 @@
-# Webpack Boilerplate
+# Family Feud Trivia
 
-A webpack boilerplate that includes the following libs:
+A Christmas time Family Feud Style trivia game
 
-* jQuery
-* bootstrap
-* font-awesome
-* waypoints
-* jquery.scrollto
-* animate.css
-
-in order to quickly build up a production-ready marketing website.
-
-### Example Page
-[DEMO](http://geniuscarrier.com/demo/webpack-boilerplate/)
-
-![GIF](http://geniuscarrier.me/images/webpack-boilerplate.gif)
+Questions can be found / edited in : /js/questions.js
 
 ### Install dependencies
 
@@ -47,3 +35,11 @@ npm install
 	/build,
 	/image,
 	index.html
+
+
+### Thanks to the following repos
+
+Appreciation to the code developed, used in this project:
+
+* [Webpack Boilerplate ](https://github.com/geniuscarrier/webpack-boilerplate)
+* [Family Feud Codepen] (https://codepen.io/MacEvelly/pen/rLWeYP)
